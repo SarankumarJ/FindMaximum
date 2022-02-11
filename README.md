@@ -55,5 +55,6 @@ def max_marks(list1):
 ![gitlogo](output2.png)
 ![gitlogo](output3.png)
 
+
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
